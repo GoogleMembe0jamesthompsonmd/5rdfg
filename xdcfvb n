@@ -1,0 +1,7 @@
+echo "# 5rdfg" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GoogleMembe0jamesthompsonmd/5rdfg.git
+git push -u origin main
